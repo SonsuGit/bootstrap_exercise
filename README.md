@@ -4,7 +4,8 @@
 
  
 
-1. logo를 바꿔주세요. -> font(google font에서 마음에 드시는 것 골라서 바꿔주세요.)로 logo를 수정합니다.  DONE  
+1. logo를 바꿔주세요. -> font(google font에서 마음에 드시는 것 골라서 바꿔주세요.)로 logo를 수정합니다. 
+#DONE  
 3. history라는 menu를 하나 더 만들어주세요. DONE
 4. 눌렀을 때 이동하게 section도 만들어주세요. DONE
 5. header 배경 이미지를 바꿔주세요. DONE
